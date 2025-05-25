@@ -40,8 +40,6 @@
 
 ✅ **Explore Cybersecurity** to enhance software protection and secure applications.  
 
-✅ **Learn about Ethical Hacking and Penetration Testing** to understand vulnerabilities and security best practices. 
-
 -----
 
 <h3 align="center">Languages</h3>
